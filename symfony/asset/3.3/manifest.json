@@ -1,0 +1,5 @@
+{
+    "composer-scripts": {
+        "assets:install --symlink --relative %PUBLIC_DIR%": "symfony-cmd"
+    }
+}
